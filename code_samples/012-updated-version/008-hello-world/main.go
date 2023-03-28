@@ -24,6 +24,7 @@ func foo() {
 
 func bar() {
 	fmt.Println("and then we exited")
+	fmt.Println("this is bar")
 }
 
 // control flow:
