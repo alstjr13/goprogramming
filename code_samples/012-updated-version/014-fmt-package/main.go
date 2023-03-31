@@ -1,4 +1,3 @@
-
 package main
 
 import (
@@ -21,3 +20,16 @@ func main() {
 	fmt.Println(s)
 	fmt.Printf("%v", y)
 }
+
+/*
+
+%b is in binary
+%x hexadecimal
+%#x hexadecimal with 0x in front of it
+
+%v prints the normal value
+
+\n is a new line
+\t is a tab
+
+*/
