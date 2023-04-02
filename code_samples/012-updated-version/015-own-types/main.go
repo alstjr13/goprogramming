@@ -16,3 +16,7 @@ func main() {
 	fmt.Println(b)
 	fmt.Printf("%T\n", b)
 }
+
+/*
+we can make our own types in GO
+*/

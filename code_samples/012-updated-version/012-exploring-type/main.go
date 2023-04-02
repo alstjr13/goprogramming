@@ -21,6 +21,8 @@ not stirred"`
 // a VARIABLE is DECLARED to hold a VALUE of a certain TYPE
 // not a DYNAMIC programming language
 
+// Go is all about TYPE
+
 func main() {
 	fmt.Println(y)
 	fmt.Printf("%T\n", y)
