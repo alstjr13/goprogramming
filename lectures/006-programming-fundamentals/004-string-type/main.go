@@ -21,3 +21,5 @@ func main() {
 		fmt.Println("at index position %d we have hex %#x\n", i, v)
 	}
 }
+
+//main takeaway: encoded as UTF-8
