@@ -42,6 +42,7 @@ func main() {
 	}
 }
 
+// can have multiple cases
 // default
 // switch / case
 // fallthrough

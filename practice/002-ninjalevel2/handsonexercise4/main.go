@@ -2,10 +2,8 @@ package main
 
 import "fmt"
 
-var x int
-
 func main() {
-	x = 42
+	x := 42
 
 	fmt.Printf("%d\t%b\t%#x\n", x, x, x)
 
