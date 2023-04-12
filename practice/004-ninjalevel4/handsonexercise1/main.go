@@ -17,5 +17,5 @@ func main() {
 		fmt.Println(i, v)
 	}
 
-	fmt.Printf("%T\t", x)
+	fmt.Printf("%T\t", x) // print out the type of the array
 }
